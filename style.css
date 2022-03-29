@@ -1,0 +1,65 @@
+body {
+  font-family: Verdana, Arial, 'Helvetica', sans-serif;
+  min-height: 400px;
+  background-image: url("https://images.pexels.com/photos/6969316/pexels-photo-6969316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-Color:#0c297d;
+  background-size: 180vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur( 10px );
+  -webkit-bacdrop-filter: blur( 10px );
+  border-radius: 10px;
+}
+
+.page-title {
+  color:#ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color:#ffffff;
+  margin-top: 5px;
+}
+
+.caixa-notas {
+  color:#ffffff;
+  margin-top: 3px;
+  border-radius: 2px;
+}
+
+input {
+  font-family: 'Helvetica';
+  font-size: 1em;
+  color: black;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 3px;
+  padding: 4px 8px;
+  border-radius: 5px;
+  background: #ffffff;
+}
+
+.texto--padrao {
+  color:#ffffff
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
