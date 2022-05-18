@@ -1,5 +1,5 @@
 # calculadoramediabimestral
-Calcular média das notas do Bimestre
+Calcular média das notas do Bimestre [AQUI](https://sergioribeiro7820.github.io/calculadoramediabimestral/)
 
 Deploy calculadora de média
 Neste exercício foi criada uma lógica que calcula a media de notas de um bimestre e ostra o resultado, 
